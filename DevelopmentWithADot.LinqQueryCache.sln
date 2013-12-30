@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.LinqQueryCache", "DevelopmentWithADot.LinqQueryCache\DevelopmentWithADot.LinqQueryCache.csproj", "{F767316A-7128-4529-A649-870FDCF7EE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.LinqQueryCache.Tests", "DevelopmentWithADot.LinqQueryCache.Tests\DevelopmentWithADot.LinqQueryCache.Tests.csproj", "{454E1DBC-7C2A-4041-9240-2A85DACF6131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F767316A-7128-4529-A649-870FDCF7EE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F767316A-7128-4529-A649-870FDCF7EE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F767316A-7128-4529-A649-870FDCF7EE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F767316A-7128-4529-A649-870FDCF7EE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454E1DBC-7C2A-4041-9240-2A85DACF6131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454E1DBC-7C2A-4041-9240-2A85DACF6131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454E1DBC-7C2A-4041-9240-2A85DACF6131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454E1DBC-7C2A-4041-9240-2A85DACF6131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
